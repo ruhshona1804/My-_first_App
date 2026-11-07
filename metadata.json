@@ -1,0 +1,6 @@
+{
+  "name": "NUVIA",
+  "description": "Smart Daily Habit Tracker with aesthetic routine planning, streaks, schedule, statistics, journal, and focus mode",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
